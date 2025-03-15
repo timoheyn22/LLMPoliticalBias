@@ -1,4 +1,4 @@
-# LLM-Bias
+# LLM-Political-Bias
 
 This is a Python-based application that sends API request to difrent LLMs asking them the Questions from the Political Compass Test and saving the Respones in an Excel File. 
 
